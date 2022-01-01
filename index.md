@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my zone
+###Introduction
+I´m a university student who loves web development and programming, I use my free time for create prohjects and increase my skills.
+You´re welcome to check my pages
 
 You can use the [editor on GitHub](https://github.com/DerianCardenas/deriancardenas.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
