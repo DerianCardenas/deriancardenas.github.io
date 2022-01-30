@@ -9,7 +9,7 @@ You´re welcome to check my pages
 2. [Gif Discover](https://deriancardenas.github.io/GifDiscover/)
 3. [Breaking Quotes](https://deriancardenas.github.io/BreakingBad/)
 4. [DBGenshin](http://dbgenshin.atwebpages.com/) <- In CONSTANT development
-5. [Marvel World](https://deriancardenas.github.io/MarvelWorld/index.html) <- In development
+5. [Marvel World](https://deriancardenas.github.io/MarvelWorld/index.html)
 
 #### Online Judges (Programing)
 1. [URI](https://www.beecrowd.com.br/judge/es/profile/287111)
@@ -17,7 +17,7 @@ You´re welcome to check my pages
 3. [Hackerrank](https://www.hackerrank.com/Sekiryuutei17?hr_r=1)
 
 #### Projects for clients
-1. [Shuka Saito Fanpage](https://shukaprotectionsquad.000webhostapp.com/index.html) <- In development 
+1. [Shuka Saito Fanpage](https://shukaprotectionsquad.000webhostapp.com/index.html) <- In final stage
 
 #### More info...
 I participated in the 2020 and 2021 editions of the "Coding Cup TecNM" obtaining places 41 and 20 with my teams.
