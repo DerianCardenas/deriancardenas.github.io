@@ -10,7 +10,7 @@ You´re welcome to check my pages
 3. [Breaking Quotes](https://deriancardenas.github.io/BreakingBad/)
 4. [DBGenshin](http://dbgenshin.atwebpages.com/) <- In CONSTANT development
 5. [Marvel World](https://deriancardenas.github.io/MarvelWorld/index.html)
-6. [The Stadium](https://deriancardenas.github.io/TheStadium/)
+6. [The Stadium](https://deriancardenas.github.io/TheStadium/) <- In development
 
 #### Online Judges (Programing)
 1. [URI](https://www.beecrowd.com.br/judge/es/profile/287111)
