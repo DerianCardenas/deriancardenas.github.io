@@ -19,7 +19,7 @@ You´re welcome to check my pages
 3. [Hackerrank](https://www.hackerrank.com/Sekiryuutei17?hr_r=1)
 
 #### Projects for clients
-1. [Shuka Saito Fanpage](https://shukaprotectionsquad.000webhostapp.com/index.html) <- In final stage
+1. [Shuka Saito Fanpage](https://shukaprotectionsquad.000webhostapp.com/index.html) 
 
 #### More info...
 I participated in the 2020 and 2021 editions of the "Coding Cup TecNM" obtaining places 41 and 20 with my teams.
