@@ -11,7 +11,7 @@ You´re welcome to check my pages
 4. [Breaking Quotes](https://deriancardenas.github.io/BreakingBad/)
 5. [DBGenshin](http://dbgenshin.atwebpages.com/) <- In CONSTANT development
 6. [Marvel World](https://deriancardenas.github.io/MarvelWorld/index.html)
-7. [The Stadium](https://deriancardenas.github.io/TheStadium/) <- In development, limited querys by API restrictions
+7. [The Stadium](https://deriancardenas.github.io/TheStadium/) <- Limited querys by API restrictions
 
 #### Online Judges (Programing)
 1. [URI](https://www.beecrowd.com.br/judge/es/profile/287111)
