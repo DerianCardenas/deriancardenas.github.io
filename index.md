@@ -1,6 +1,6 @@
 ## Welcome to my zone
 ### Introduction
-I´m a university student who loves web development and programming, I use my free time for create prohjects and increase my skills.
+I´m a university student who loves web development and programming, I use my free time for create projects and increase my skills.
 You´re welcome to check my pages
 
 **Some of those pages are in development**, you can come back later to see my progress
