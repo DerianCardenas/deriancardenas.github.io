@@ -13,7 +13,6 @@ You´re welcome to check my pages
 6. [Marvel World](https://deriancardenas.github.io/MarvelWorld/index.html)
 7. [The Stadium](https://deriancardenas.github.io/TheStadium/) <- Limited querys by API restrictions
 8. [Valoranr Protocol](https://deriancardenas.github.io/valorant-protocol/) <- In development
-9. [Weather Report](https://deriancardenas.github.io/weather-report/) <- In development / Limited querys by API restrictions
 
 #### Online Judges (Programing)
 1. [URI](https://www.beecrowd.com.br/judge/es/profile/287111)
