@@ -5,15 +5,15 @@ You´re welcome to check my pages
 
 **Some of those pages are in development**, you can come back later to see my progress
 #### Pages List
-1. [Portfolio](https://deriancardenas.github.io/Portfolio/)
+1. [Portfolio](https://deriancardenas.github.io/Portfolio/) 
 2. [Pokemon](https://deriancardenas.github.io/pokedex-final/)
 3. [Gif Discover](https://deriancardenas.github.io/GifDiscover/)
 4. [Breaking Quotes](https://deriancardenas.github.io/BreakingBad/)
-5. [DBGenshin](http://dbgenshin.atwebpages.com/) <- does´nt work now
+5. [DBGenshin](https://deriancardenas.github.io/GenshinDatabase-Vue/) <- working now
 6. [Marvel World](https://deriancardenas.github.io/MarvelWorld/index.html)
 7. [The Stadium](https://deriancardenas.github.io/TheStadium/) <- Limited querys by API restrictions
 8. [Valoranr Protocol](https://deriancardenas.github.io/valorant-protocol/) <- In development
-9. [Game Store](https://deriancardenas.github.io/game-store/) <- In development
+9. [Game Store](https://deriancardenas.github.io/game-store/) <- In development (with some malfunctions)
 
 #### Online Judges (Programing)
 1. [URI](https://www.beecrowd.com.br/judge/es/profile/287111)
