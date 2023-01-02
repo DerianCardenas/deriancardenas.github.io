@@ -13,15 +13,12 @@ You´re welcome to check my pages
 6. [Marvel World](https://deriancardenas.github.io/MarvelWorld/index.html)
 7. [The Stadium](https://deriancardenas.github.io/TheStadium/) <- Limited querys by API restrictions
 8. [Valoranr Protocol](https://deriancardenas.github.io/valorant-protocol/) <- In development
-9. [Game Store](https://deriancardenas.github.io/game-store/) <- In development (with some malfunctions)
 
 #### Online Judges (Programing)
 1. [URI](https://www.beecrowd.com.br/judge/es/profile/287111)
 2. [Aizu Online Judge](https://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=DerianCardenas17#0)
 3. [Hackerrank](https://www.hackerrank.com/Sekiryuutei17?hr_r=1)
 
-#### Projects for clients
-1. [Shuka Saito Fanpage](https://shukaprotectionsquad.000webhostapp.com/index.html) 
 
 #### More info...
 I participated in the 2020 and 2021 editions of the "Coding Cup TecNM" obtaining places 41 and 20 with my teams.
