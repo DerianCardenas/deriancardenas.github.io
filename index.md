@@ -13,8 +13,7 @@ You´re welcome to check my pages
 6. [Marvel World](https://deriancardenas.github.io/MarvelWorld/index.html)
 7. [The Stadium](https://deriancardenas.github.io/TheStadium/) <- Limited querys by API restrictions
 8. [Valoranr Protocol](https://deriancardenas.github.io/valorant-protocol/) <- In development
-9. [DBGenhin - Remake](https://deriancardenas.github.io/GenshinDB/) <- in development
-
+   
 #### Online Judges (Programing)
 1. [URI](https://www.beecrowd.com.br/judge/es/profile/287111)
 2. [Aizu Online Judge](https://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=DerianCardenas17#0)
